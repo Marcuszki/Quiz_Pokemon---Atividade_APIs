@@ -9,7 +9,7 @@
 ## Orientador
  * Marcel Philippe
 
- # 🎥 Quiz da Serie de anime Pokemon
+ # 👾 Quiz da Serie de anime Pokemon
  - Projeto voltado para a criação de um jogo/Quiz do anime Pokemon.
  - Esse projeto foi desenvolvido para fins academicos.
 
