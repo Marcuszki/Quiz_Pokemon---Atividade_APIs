@@ -31,3 +31,4 @@ Esse projeto foi desenvolvido para fins academicos.
     Marcus Andrade
     GitHub:https://github.com/Marcuszki
     Linkedin:https://www.linkedin.com/in/marcus-vacosta/
+![Image](https://github.com/user-attachments/assets/ad6c1ee4-7426-49a7-b0ec-3c0fdd404d04)
