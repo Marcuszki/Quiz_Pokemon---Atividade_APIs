@@ -1,6 +1,6 @@
 ## Quiz Pokemon
 
-![Image](https://github.com/user-attachments/assets/56154adf-7323-4ce6-a519-594c55a5a928)
+
 
 `Desenvolvimento de sistemas - Senai CTTI`
 
@@ -10,8 +10,9 @@
  * Marcel Philippe
 
  # 🎥 Quiz da Serie de anime Pokemon
-Projeto voltado para a criação de um jogo/Quiz do anime Pokemon
+Projeto voltado para a criação de um jogo/Quiz do anime Pokemon![Image](https://github.com/user-attachments/assets/56154adf-7323-4ce6-a519-594c55a5a928)
 Esse projeto foi desenvolvido para fins academicos.
+
 
 
 ## 🚀 Funcionalidades Principais
