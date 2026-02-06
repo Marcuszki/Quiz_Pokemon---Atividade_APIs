@@ -10,8 +10,8 @@
  * Marcel Philippe
 
  # 🎥 Quiz da Serie de anime Pokemon
-Projeto voltado para a criação de um jogo/Quiz do anime Pokemon.
-Esse projeto foi desenvolvido para fins academicos.
+  Projeto voltado para a criação de um jogo/Quiz do anime Pokemon.
+  Esse projeto foi desenvolvido para fins academicos.
 
 ![Image](https://github.com/user-attachments/assets/56154adf-7323-4ce6-a519-594c55a5a928)
 
